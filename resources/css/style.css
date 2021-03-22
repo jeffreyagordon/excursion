@@ -13,6 +13,18 @@ body {
     color: white;
 }
 
+.header--secondary {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+
+.header--subheader {
+font-size: 42px;
+color: grey;
+}
+
 /* LINKS */
 
 .link--cta {
